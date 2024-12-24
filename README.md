@@ -325,6 +325,6 @@ def update_elapsed_time(self):
 ---
 
 ## Contact
-For any inquiries or support, feel free to reach out at naufalzgt@gmail.com , nopaldapa205@gmail.com and .
+For any inquiries or support, feel free to reach out at naufalzgt@gmail.com , nopaldapa205@gmail.com and raflidani9@gmail.com.
 
 
