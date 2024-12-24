@@ -10,7 +10,7 @@ Voice analysis for detecting gender involves identifying acoustic features that 
 2. Muhammad Naufal Zuhair (2042231005)
 3. Daffa Naufal Wahyuaji (2042231081)
 4. Ahmad Radhy (Supervisor)
-5. 
+
 # Audio Visualizer and Recorder
 
 This project is a Python application built using PyQt5, which provides a user-friendly interface for live audio visualization, recording, and gender detection. The application integrates real-time plotting using Matplotlib and supports saving and uploading recorded audio to Edge Impulse.
