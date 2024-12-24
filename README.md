@@ -1,5 +1,5 @@
 ![Screenshot (693)](https://github.com/user-attachments/assets/339cc7f3-5600-4f31-889f-66ceb8623b1e)
-# Analisis Suara Berdasarkan Jenis Gender Manusia
+# Sound Analysis Based on Human Gender
 Voice analysis for detecting gender involves identifying acoustic features that differ between male and female voices, such as:
 1. Pitch (F0): Female voices typically have a higher pitch compared to male voices.
 2. Formant Frequencies: Resonant frequencies also differ between male and female voices.
